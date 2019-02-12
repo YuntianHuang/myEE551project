@@ -1,8 +1,8 @@
-## Minesweeper
+# Minesweeper
 
-# The project for EE551(Python)
+## The project for EE551(Python)
 
-# Introduction:
+## Introduction:
 1.	Basic function: Left click: mine sweeping 
              Right click: marking
 2.	Recording game steps and time
