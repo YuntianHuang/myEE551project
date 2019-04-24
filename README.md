@@ -8,7 +8,6 @@ This project is designed to build a game: minesweeper
 1.	Basic function: Left click: mine sweeping 
              Right click: marking
 2.	Recording game time
-3.	Game reset: The same map can be played multiple times
 ## Rules:
 1.  When clicking to the grid that has been clicked，there will be no changeand you can continue to play
 2.  If clicking on the mine, the game will be over
