@@ -5,8 +5,9 @@ This is my EE551 python individual project | Author: Yuntian Huang
 ## Purpose:
 This project is designed to build a game: minesweeper
 ## Features:
-1.	Basic function: Left click: mine sweeping 
-             Right click: marking
+1.	Basic function: 
+    Left click: mine sweeping 
+    Right click: marking
 2.	Recording game time
 ## Rules:
 1.  When clicking to the grid that has been clicked，there will be no changeand you can continue to play
